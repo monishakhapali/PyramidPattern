@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\bin\Debug\netcoreapp3.1\PyramidPattern2.exe
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\bin\Debug\netcoreapp3.1\PyramidPattern2.deps.json
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\bin\Debug\netcoreapp3.1\PyramidPattern2.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\bin\Debug\netcoreapp3.1\PyramidPattern2.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\bin\Debug\netcoreapp3.1\PyramidPattern2.dll
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\bin\Debug\netcoreapp3.1\PyramidPattern2.pdb
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.dll
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.pdb
+C:\Users\monisha.khapali\source\repos\PyramidPattern2\PyramidPattern2\obj\Debug\netcoreapp3.1\PyramidPattern2.genruntimeconfig.cache
